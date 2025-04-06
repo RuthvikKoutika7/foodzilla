@@ -16,7 +16,7 @@ const ContactUs = () => {
             className="border border-black p-4 m-4"
             placeholder="Message"
           ></input>
-          <button className="border border-black p-4 m-4 rounded-xl bg-gray-400" >
+          <button className="border border-black p-4 m-4 rounded-xl bg-gray-400 " >
             Submit
           </button>
         </form>
